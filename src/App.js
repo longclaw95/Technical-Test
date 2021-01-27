@@ -44,9 +44,9 @@ function App() {
           <Card>
             <ImageScreen list={list}></ImageScreen>
             <Card.Body>
-              <Card.Title>Card Title</Card.Title>
+              <Card.Title>mini-project realized by Wassim Zeddini</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up
+              the number of generations is initialized to 10
                 
               </Card.Text>
               <div className="block">
